@@ -31,7 +31,7 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
 
     ```bash
     git clone https://github.com/coutooo/CityInfo
-    ```****
+    ```
 
 3. Build and install the simulation:
 
