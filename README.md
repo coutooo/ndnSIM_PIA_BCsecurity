@@ -33,7 +33,11 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
     git clone https://github.com/coutooo/CityInfo
     ```
 
-3. Build and install the simulation:
+3. Run the blockchain:
+
+    - check CityInfo repositorie.
+
+4. Build and install the simulation:
 
     ```bash
     ./waf configure
@@ -41,7 +45,7 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
     sudo ./waf install
     ```
 
-4. Run the simulation:
+5. Run the simulation:
 
     ```bash
     ./waf --run ndn-grid
