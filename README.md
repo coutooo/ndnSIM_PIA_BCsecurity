@@ -35,7 +35,7 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
 
 3. Run the blockchain:
 
-    - check CityInfo repositorie.
+    - check CityInfo repo.
 
 4. Build and install the simulation:
 
