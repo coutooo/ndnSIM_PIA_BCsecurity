@@ -1,0 +1,14 @@
+meter 2 consumers 2 producers
+
+1 consumer pedir 1 conteudo
+tentar um ficheiro com 10 chunks
+
+medir interesses satisfeitos, perdidos, tempo total.
+
+ve a parte do obtaining metrics
+
+
+fazer testes sem segurança
+fazer testes com segurança
+
+delays de segurança
