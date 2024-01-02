@@ -40,7 +40,7 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
 4. Build and install the simulation:
 
     ```bash
-    ./waf configure
+    ./waf configure --enable-examples
     ./waf
     sudo ./waf install
     ```
@@ -49,6 +49,8 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
 
     ```bash
     ./waf --run ndn-grid
+    for better logs
+    NS_LOG=ndn.Consumer:ndn.Producer ./waf --run=ndn-grid
     ```
 
 ## Configuration
