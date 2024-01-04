@@ -26,6 +26,7 @@ This repository presents an adaptation of the ndnSIM (Named Data Networking Simu
     ```bash
     git clone https://github.com/coutooo/ndnSIM_PIA_BCsecurity
     cd ndnSIM_PIA_BCsecurity
+    apps/ and examples/ to the ndnSIM (ns-3/src/ndnSIM)
     ```
 2. Clone the Blockchain repository:
 
